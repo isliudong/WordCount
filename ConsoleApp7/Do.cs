@@ -31,12 +31,7 @@ namespace WordCount
 
 
 
-            /*for (int i = 0; i < wordArray.Length; i++)
-            {
-                Console.WriteLine("文本内容为：" + "\n" + wordArray[i]);
-                if (i == wordArray.Length - 1)
-                    Console.WriteLine();
-            }*/
+          
             for (int i = 0; i < read.word.Length; i++)
             {
                 times[i] = 1;
