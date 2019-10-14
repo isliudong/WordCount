@@ -1,0 +1,14 @@
+C:\Users\刘冬\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\WordCount.csprojAssemblyReference.cache
+C:\Users\刘冬\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\刘冬\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\刘冬\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Users\刘冬\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\刘冬\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\刘冬\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+D:\360MoveData\Users\刘冬\Desktop\WordCount\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+D:\360MoveData\Users\刘冬\Desktop\WordCount\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+D:\360MoveData\Users\刘冬\Desktop\WordCount\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+D:\360MoveData\Users\刘冬\Desktop\WordCount\ConsoleApp7\obj\Debug\WordCount.csprojAssemblyReference.cache
+D:\360MoveData\Users\刘冬\Desktop\WordCount\ConsoleApp7\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+D:\360MoveData\Users\刘冬\Desktop\WordCount\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+D:\360MoveData\Users\刘冬\Desktop\WordCount\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
